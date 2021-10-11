@@ -1,0 +1,5 @@
+- 👋 Hi, I’m iqbal shahzad
+- 👀 I’m interested in web applications development
+- 🌱 I’m currently learning data automation and web scrapping
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 Email me at iqbalshahzad@punch.cool
